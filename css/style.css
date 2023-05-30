@@ -108,11 +108,6 @@ a {
 
 /* features */
 
-.features {
-  padding-top: 100px;
-  padding-bottom: 100px;
-}
-
 .col-img {
   background-image: url(../img/cover2.jpg);
   background-position: center;
