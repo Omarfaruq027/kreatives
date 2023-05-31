@@ -220,3 +220,7 @@ form .form-control {
   background-color: rgb(0, 0, 0, 0.2);
   border: 1px solid #39515c;
 }
+
+.background {
+  background-color: #c6c7c8;
+}
