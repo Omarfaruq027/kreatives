@@ -200,3 +200,10 @@ img {
   color: var(--primary);
   background-color: transparent;
 }
+
+/* blogs */
+
+.blog-section {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
