@@ -163,3 +163,40 @@ img {
   font-size: 20px;
   color: var(--primary);
 }
+
+.pricing ul li {
+  margin-top: 8px;
+}
+
+/* team */
+
+.team-member img {
+  width: 125px;
+  height: 125px;
+  border-radius: 100px;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+}
+
+.social-icons a {
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  background-color: var(--primary);
+  display: flex;
+  border-radius: 2px solid var(--primary);
+  align-items: center;
+  justify-content: center;
+  border-radius: 100px;
+  margin-left: 5px;
+  transition: all 0.4s ease;
+  border: 2px solid var(--primary);
+}
+
+.social-icons a:hover {
+  color: var(--primary);
+  background-color: transparent;
+}
