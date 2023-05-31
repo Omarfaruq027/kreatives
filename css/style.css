@@ -221,6 +221,6 @@ form .form-control {
 }
 
 .background {
-  background-color: #888888;
+  background-color: rgb(0, 0, 0, 0.2);
   color: #fff;
 }
